@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\Projetos .NET\\CRUD-Livros\\WebApi-Livros\\WebApi-Livros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0EA3FEA3-F510-4572-9264-79845B2D24FF}|WebApi-Livros\\WebApi-Livros.csproj|d:\\projetos .net\\crud-livros\\webapi-livros\\webapi-livros\\webapi-livros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EA3FEA3-F510-4572-9264-79845B2D24FF}|WebApi-Livros\\WebApi-Livros.csproj|solutionrelative:webapi-livros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EA3FEA3-F510-4572-9264-79845B2D24FF}|WebApi-Livros\\WebApi-Livros.csproj|d:\\projetos .net\\crud-livros\\webapi-livros\\webapi-livros\\webapi-livros\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EA3FEA3-F510-4572-9264-79845B2D24FF}|WebApi-Livros\\WebApi-Livros.csproj|solutionrelative:webapi-livros\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EA3FEA3-F510-4572-9264-79845B2D24FF}|WebApi-Livros\\WebApi-Livros.csproj|d:\\projetos .net\\crud-livros\\webapi-livros\\webapi-livros\\webapi-livros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0EA3FEA3-F510-4572-9264-79845B2D24FF}|WebApi-Livros\\WebApi-Livros.csproj|solutionrelative:webapi-livros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0EA3FEA3-F510-4572-9264-79845B2D24FF}|WebApi-Livros\\WebApi-Livros.csproj|d:\\projetos .net\\crud-livros\\webapi-livros\\webapi-livros\\webapi-livros\\services\\autor\\iautorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA3FEA3-F510-4572-9264-79845B2D24FF}|WebApi-Livros\\WebApi-Livros.csproj|solutionrelative:webapi-livros\\services\\autor\\iautorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0EA3FEA3-F510-4572-9264-79845B2D24FF}|WebApi-Livros\\WebApi-Livros.csproj|d:\\projetos .net\\crud-livros\\webapi-livros\\webapi-livros\\webapi-livros\\models\\livrosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +17,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{0EA3FEA3-F510-4572-9264-79845B2D24FF}|WebApi-Livros\\WebApi-Livros.csproj|d:\\projetos .net\\crud-livros\\webapi-livros\\webapi-livros\\webapi-livros\\migrations\\20240913223629_criandobancodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EA3FEA3-F510-4572-9264-79845B2D24FF}|WebApi-Livros\\WebApi-Livros.csproj|solutionrelative:webapi-livros\\migrations\\20240913223629_criandobancodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA3FEA3-F510-4572-9264-79845B2D24FF}|WebApi-Livros\\WebApi-Livros.csproj|d:\\projetos .net\\crud-livros\\webapi-livros\\webapi-livros\\webapi-livros\\services\\autor\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA3FEA3-F510-4572-9264-79845B2D24FF}|WebApi-Livros\\WebApi-Livros.csproj|solutionrelative:webapi-livros\\services\\autor\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA3FEA3-F510-4572-9264-79845B2D24FF}|WebApi-Livros\\WebApi-Livros.csproj|d:\\projetos .net\\crud-livros\\webapi-livros\\webapi-livros\\webapi-livros\\webapi-livros.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0EA3FEA3-F510-4572-9264-79845B2D24FF}|WebApi-Livros\\WebApi-Livros.csproj|solutionrelative:webapi-livros\\webapi-livros.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA3FEA3-F510-4572-9264-79845B2D24FF}|WebApi-Livros\\WebApi-Livros.csproj|d:\\projetos .net\\crud-livros\\webapi-livros\\webapi-livros\\webapi-livros\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA3FEA3-F510-4572-9264-79845B2D24FF}|WebApi-Livros\\WebApi-Livros.csproj|solutionrelative:webapi-livros\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA3FEA3-F510-4572-9264-79845B2D24FF}|WebApi-Livros\\WebApi-Livros.csproj|d:\\projetos .net\\crud-livros\\webapi-livros\\webapi-livros\\webapi-livros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EA3FEA3-F510-4572-9264-79845B2D24FF}|WebApi-Livros\\WebApi-Livros.csproj|solutionrelative:webapi-livros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA3FEA3-F510-4572-9264-79845B2D24FF}|WebApi-Livros\\WebApi-Livros.csproj|d:\\projetos .net\\crud-livros\\webapi-livros\\webapi-livros\\webapi-livros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA3FEA3-F510-4572-9264-79845B2D24FF}|WebApi-Livros\\WebApi-Livros.csproj|solutionrelative:webapi-livros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,37 +46,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAutorInterface.cs",
+              "DocumentMoniker": "D:\\Projetos .NET\\CRUD-Livros\\WebApi-Livros\\WebApi-Livros\\WebApi-Livros\\Services\\Autor\\IAutorInterface.cs",
+              "RelativeDocumentMoniker": "WebApi-Livros\\Services\\Autor\\IAutorInterface.cs",
+              "ToolTip": "D:\\Projetos .NET\\CRUD-Livros\\WebApi-Livros\\WebApi-Livros\\WebApi-Livros\\Services\\Autor\\IAutorInterface.cs",
+              "RelativeToolTip": "WebApi-Livros\\Services\\Autor\\IAutorInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T22:57:07.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutorService.cs",
+              "DocumentMoniker": "D:\\Projetos .NET\\CRUD-Livros\\WebApi-Livros\\WebApi-Livros\\WebApi-Livros\\Services\\Autor\\AutorService.cs",
+              "RelativeDocumentMoniker": "WebApi-Livros\\Services\\Autor\\AutorService.cs",
+              "ToolTip": "D:\\Projetos .NET\\CRUD-Livros\\WebApi-Livros\\WebApi-Livros\\WebApi-Livros\\Services\\Autor\\AutorService.cs",
+              "RelativeToolTip": "WebApi-Livros\\Services\\Autor\\AutorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T22:56:34.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "WebApi-Livros.csproj",
+              "DocumentMoniker": "D:\\Projetos .NET\\CRUD-Livros\\WebApi-Livros\\WebApi-Livros\\WebApi-Livros\\WebApi-Livros.csproj",
+              "RelativeDocumentMoniker": "WebApi-Livros\\WebApi-Livros.csproj",
+              "ToolTip": "D:\\Projetos .NET\\CRUD-Livros\\WebApi-Livros\\WebApi-Livros\\WebApi-Livros\\WebApi-Livros.csproj",
+              "RelativeToolTip": "WebApi-Livros\\WebApi-Livros.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T22:56:03.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "20240913223629_CriandoBancoDeDados.cs",
               "DocumentMoniker": "D:\\Projetos .NET\\CRUD-Livros\\WebApi-Livros\\WebApi-Livros\\WebApi-Livros\\Migrations\\20240913223629_CriandoBancoDeDados.cs",
               "RelativeDocumentMoniker": "WebApi-Livros\\Migrations\\20240913223629_CriandoBancoDeDados.cs",
               "ToolTip": "D:\\Projetos .NET\\CRUD-Livros\\WebApi-Livros\\WebApi-Livros\\WebApi-Livros\\Migrations\\20240913223629_CriandoBancoDeDados.cs",
               "RelativeToolTip": "WebApi-Livros\\Migrations\\20240913223629_CriandoBancoDeDados.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T22:36:30.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projetos .NET\\CRUD-Livros\\WebApi-Livros\\WebApi-Livros\\WebApi-Livros\\Program.cs",
               "RelativeDocumentMoniker": "WebApi-Livros\\Program.cs",
               "ToolTip": "D:\\Projetos .NET\\CRUD-Livros\\WebApi-Livros\\WebApi-Livros\\WebApi-Livros\\Program.cs",
               "RelativeToolTip": "WebApi-Livros\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T22:29:19.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T22:29:19.115Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "LivrosModel.cs",
               "DocumentMoniker": "D:\\Projetos .NET\\CRUD-Livros\\WebApi-Livros\\WebApi-Livros\\WebApi-Livros\\Models\\LivrosModel.cs",
               "RelativeDocumentMoniker": "WebApi-Livros\\Models\\LivrosModel.cs",
@@ -77,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "AutorModel.cs",
               "DocumentMoniker": "D:\\Projetos .NET\\CRUD-Livros\\WebApi-Livros\\WebApi-Livros\\WebApi-Livros\\Models\\AutorModel.cs",
               "RelativeDocumentMoniker": "WebApi-Livros\\Models\\AutorModel.cs",
@@ -90,29 +139,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "AppDBContext.cs",
               "DocumentMoniker": "D:\\Projetos .NET\\CRUD-Livros\\WebApi-Livros\\WebApi-Livros\\WebApi-Livros\\Data\\AppDBContext.cs",
               "RelativeDocumentMoniker": "WebApi-Livros\\Data\\AppDBContext.cs",
-              "ToolTip": "D:\\Projetos .NET\\CRUD-Livros\\WebApi-Livros\\WebApi-Livros\\WebApi-Livros\\Data\\AppDBContext.cs*",
-              "RelativeToolTip": "WebApi-Livros\\Data\\AppDBContext.cs*",
+              "ToolTip": "D:\\Projetos .NET\\CRUD-Livros\\WebApi-Livros\\WebApi-Livros\\WebApi-Livros\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "WebApi-Livros\\Data\\AppDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T22:07:03.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T22:07:03.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Projetos .NET\\CRUD-Livros\\WebApi-Livros\\WebApi-Livros\\WebApi-Livros\\appsettings.json",
               "RelativeDocumentMoniker": "WebApi-Livros\\appsettings.json",
               "ToolTip": "D:\\Projetos .NET\\CRUD-Livros\\WebApi-Livros\\WebApi-Livros\\WebApi-Livros\\appsettings.json",
               "RelativeToolTip": "WebApi-Livros\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-13T22:02:27.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T22:02:27.376Z"
             }
           ]
         }

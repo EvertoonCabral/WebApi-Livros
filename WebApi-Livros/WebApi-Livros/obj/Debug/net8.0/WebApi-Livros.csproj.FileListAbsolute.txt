@@ -134,3 +134,4 @@ D:\Projetos .NET\CRUD-Livros\WebApi-Livros\WebApi-Livros\WebApi-Livros\obj\Debug
 D:\Projetos .NET\CRUD-Livros\WebApi-Livros\WebApi-Livros\WebApi-Livros\obj\Debug\net8.0\WebApi-Livros.pdb
 D:\Projetos .NET\CRUD-Livros\WebApi-Livros\WebApi-Livros\WebApi-Livros\obj\Debug\net8.0\WebApi-Livros.genruntimeconfig.cache
 D:\Projetos .NET\CRUD-Livros\WebApi-Livros\WebApi-Livros\WebApi-Livros\obj\Debug\net8.0\ref\WebApi-Livros.dll
+D:\Projetos .NET\CRUD-Livros\WebApi-Livros\WebApi-Livros\WebApi-Livros\obj\Debug\net8.0\WebApi-Livros.sourcelink.json
